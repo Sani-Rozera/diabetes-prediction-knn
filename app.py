@@ -3,8 +3,8 @@ import numpy as np
 import pickle
 
 # Load model
-model = pickle.load(open('model/knn_model.pkl', 'rb'))
-scaler = pickle.load(open('model/scaler.pkl', 'rb'))
+model = pickle.load(open('knn_model.pkl', 'rb'))
+scaler = pickle.load(open('scaler.pkl', 'rb'))
 
 st.title("Diabetes Prediction System")
 
