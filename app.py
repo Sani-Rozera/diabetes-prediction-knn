@@ -21,9 +21,6 @@ st.sidebar.info(
 )
 st.sidebar.markdown("Developed for Healthcare ML Project")
 
-# Optional image (you can remove if you want)
-st.image("https://images.unsplash.com/photo-1588776814546-ec7e1d7b8b5c", use_container_width=True)
-
 # Input section
 st.subheader("Enter Patient Details")
 
