@@ -37,7 +37,7 @@ The system predicts whether the person has a high or low risk of diabetes based 
 
 GitHub Repository: https://github.com/Sani-Rozera/diabetes-prediction-knn
 
-Live App: https://diabetes-prediction-knn-fd57shksupxjbvrxj9pugl.streamlit.app/
+Live App: https://diabetes-prediction-knn-dcgdqrnj6wn26xtetctoyv.streamlit.app/
 
 ## Author
 
